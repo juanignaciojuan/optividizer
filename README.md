@@ -1,0 +1,1 @@
+Herramienta para optimizar videos para web. Comprime los videos a > 5mb manteniendo su calidad. Exporta .mp4. Es necesario instalar ffmpeg en PATH y que las imágenes a optimizar estén dentro de una carpeta junto al archivo .bat. Hecho con github copilot.
